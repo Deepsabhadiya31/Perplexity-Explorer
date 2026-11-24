@@ -103,8 +103,4 @@ To prevent arithmetic underflow with longer sequences, calculations are performe
 
 $$\text{PPL}(W) = \exp\left( -\frac{1}{N} \sum_{i=1}^N \ln P(w_i \mid w_{<i}) \right)$$
 
----
 
-## 📄 License
-
-MIT License. Created for open educational exploration of machine learning and language models.
